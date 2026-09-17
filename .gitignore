@@ -1,0 +1,26 @@
+# Environment variables (secrets!)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Graphify (regenerated, large files)
+graphify-out/
+
+# Node modules (for future frontend)
+node_modules/
